@@ -1,5 +1,5 @@
 
-# GitInsight AI 🚀
+# GitInsight AI 
 
 **GitInsight AI** is a professional full-stack intelligence dashboard designed for recruiters to evaluate developer portfolios efficiently. By leveraging **Spring Boot 3.2**, **Spring AI**, and **Google Gemini**, it transforms complex GitHub data into concise, actionable insights and allows for persistent candidate management.
 
