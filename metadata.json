@@ -1,0 +1,5 @@
+{
+  "name": "GitInsight AI Backend",
+  "description": "A Spring Boot 3.2 service that leverages Gemini AI to summarize GitHub user profiles for recruiters.",
+  "requestFramePermissions": []
+}
